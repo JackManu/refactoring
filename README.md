@@ -1,3 +1,19 @@
+
+Notes from me:
+
+updated a lot of div tags to use more appropriate/specific ones.
+added an ID to a tag to fix the broken link.
+updated css classes to avoid having to maintain duplicate functionality.  
+added title.
+there are comments in the html and css files that detail these changes
+
+
+
+
+
+
+
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
